@@ -1,0 +1,1802 @@
+[
+  {
+    "sprite": {
+      "id": "glimperoo",
+      "name": "Glimperoo",
+      "category": "imaginary",
+      "tags": [
+        "mirror",
+        "invisible",
+        "reflection",
+        "glass",
+        "surreal",
+        "paradox",
+        "ghost",
+        "peek"
+      ]
+    },
+    "tileId": "055b4bd0-5388-441b-a013-20cecf3bdff6",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/055b4bd0-5388-441b-a013-20cecf3bdff6/download",
+    "prompt": "A handheld mirror reflecting things that are not there, ghostly images in the glass, ornate frame, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "twazzlebin",
+      "name": "Twazzlebin",
+      "category": "imaginary",
+      "tags": [
+        "trash",
+        "dimension",
+        "portal",
+        "container",
+        "surreal",
+        "sort",
+        "void",
+        "metal"
+      ]
+    },
+    "tileId": "ac63b6e1-d2c2-4151-9635-e83b73e51b7c",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/ac63b6e1-d2c2-4151-9635-e83b73e51b7c/download",
+    "prompt": "A small metal trash bin with a swirling portal vortex inside instead of a bottom, purple glow, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "sproingfiddle",
+      "name": "Sproingfiddle",
+      "category": "imaginary",
+      "tags": [
+        "violin",
+        "spring",
+        "coil",
+        "music",
+        "backwards",
+        "surreal",
+        "bounce",
+        "metal"
+      ]
+    },
+    "tileId": "3203f171-cd1b-4736-9c6a-da30c69ec9b5",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/3203f171-cd1b-4736-9c6a-da30c69ec9b5/download",
+    "prompt": "A violin made entirely of coiled springs and metal coils, bouncy and springy looking, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "clunkmelon",
+      "name": "Clunkmelon",
+      "category": "imaginary",
+      "tags": [
+        "melon",
+        "clockwork",
+        "gear",
+        "ticking",
+        "fruit",
+        "surreal",
+        "mechanical",
+        "brass"
+      ]
+    },
+    "tileId": "ed55ca13-dc02-4694-8413-5c0989868255",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/ed55ca13-dc02-4694-8413-5c0989868255/download",
+    "prompt": "A cantaloupe melon made of brass clockwork gears, ticking with a tiny clock face on front, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "wobblethorn",
+      "name": "Wobblethorn",
+      "category": "imaginary",
+      "tags": [
+        "thorn",
+        "bush",
+        "jelly",
+        "wobble",
+        "plant",
+        "surreal",
+        "spike",
+        "squishy"
+      ]
+    },
+    "tileId": "c35889b0-e3af-45c5-bccc-de6ec17fc8b6",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/c35889b0-e3af-45c5-bccc-de6ec17fc8b6/download",
+    "prompt": "A thorny bush branch made of translucent wobbling jelly, spikes bending and flexing, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "snazzlecap",
+      "name": "Snazzlecap",
+      "category": "imaginary",
+      "tags": [
+        "mushroom",
+        "hat",
+        "tophat",
+        "fancy",
+        "surreal",
+        "fungus",
+        "dapper",
+        "tiny"
+      ]
+    },
+    "tileId": "3cda0ebf-f7fa-4b5d-99f1-5cd9a057b3dd",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/3cda0ebf-f7fa-4b5d-99f1-5cd9a057b3dd/download",
+    "prompt": "A red spotted mushroom wearing a tiny formal top hat on its cap, dapper and fancy, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "bumbleglass",
+      "name": "Bumbleglass",
+      "category": "imaginary",
+      "tags": [
+        "magnifying",
+        "glass",
+        "blur",
+        "lens",
+        "surreal",
+        "reverse",
+        "fuzzy",
+        "optics"
+      ]
+    },
+    "tileId": "da85ec02-4d3d-486f-9a49-2d78db0cb712",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/da85ec02-4d3d-486f-9a49-2d78db0cb712/download",
+    "prompt": "A magnifying glass that makes everything seen through it appear blurry and fuzzy, cracked lens, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "grinklesaw",
+      "name": "Grinklesaw",
+      "category": "imaginary",
+      "tags": [
+        "saw",
+        "teeth",
+        "laugh",
+        "giggle",
+        "tool",
+        "surreal",
+        "metal",
+        "goofy"
+      ]
+    },
+    "tileId": "2422342b-37d4-485e-800f-66329ad67c74",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/2422342b-37d4-485e-800f-66329ad67c74/download",
+    "prompt": "A handsaw with teeth shaped like tiny grinning mouths, each tooth has a little smile, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "flibberknob",
+      "name": "Flibberknob",
+      "category": "imaginary",
+      "tags": [
+        "doorknob",
+        "portal",
+        "random",
+        "door",
+        "surreal",
+        "brass",
+        "twist",
+        "travel"
+      ]
+    },
+    "tileId": "c8ecc300-4ae8-48d7-955d-ee0fe8943278",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/c8ecc300-4ae8-48d7-955d-ee0fe8943278/download",
+    "prompt": "A brass doorknob floating in space with swirling portal energy around it, no door attached, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "spudwhistle",
+      "name": "Spudwhistle",
+      "category": "imaginary",
+      "tags": [
+        "potato",
+        "piccolo",
+        "music",
+        "vegetable",
+        "surreal",
+        "toot",
+        "root",
+        "wind"
+      ]
+    },
+    "tileId": "097b61f8-3cef-4351-9efc-d9b07bb41476",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/097b61f8-3cef-4351-9efc-d9b07bb41476/download",
+    "prompt": "A brown potato with a tiny brass piccolo sticking out of one end, musical notes floating, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "quorklamp",
+      "name": "Quorklamp",
+      "category": "imaginary",
+      "tags": [
+        "lamp",
+        "darkness",
+        "shadow",
+        "inverse",
+        "surreal",
+        "glow",
+        "void",
+        "light"
+      ]
+    },
+    "tileId": "06a6b43e-981c-4592-af97-96ac48b8440d",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/06a6b43e-981c-4592-af97-96ac48b8440d/download",
+    "prompt": "An oil lamp that emits a cone of darkness instead of light, dark purple anti-glow, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "fizzletongs",
+      "name": "Fizzletongs",
+      "category": "imaginary",
+      "tags": [
+        "tongs",
+        "lightning",
+        "frozen",
+        "electric",
+        "surreal",
+        "ice",
+        "bolt",
+        "grip"
+      ]
+    },
+    "tileId": "bae0e42d-3af0-4e26-b6ce-e03538339e18",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/bae0e42d-3af0-4e26-b6ce-e03538339e18/download",
+    "prompt": "Kitchen tongs made of frozen lightning bolts, crackling with ice crystals and static, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "drozzlepipe",
+      "name": "Drozzlepipe",
+      "category": "imaginary",
+      "tags": [
+        "pipe",
+        "smoke",
+        "square",
+        "ring",
+        "surreal",
+        "puff",
+        "geometry",
+        "wood"
+      ]
+    },
+    "tileId": "560687d2-8496-4cc4-a88c-ad53e7e03260",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/560687d2-8496-4cc4-a88c-ad53e7e03260/download",
+    "prompt": "A smoking pipe blowing perfectly square-shaped smoke rings, wooden with brass fittings, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "winklebrace",
+      "name": "Winklebrace",
+      "category": "imaginary",
+      "tags": [
+        "bracelet",
+        "eyeball",
+        "blink",
+        "chain",
+        "surreal",
+        "jewelry",
+        "watch",
+        "creepy"
+      ]
+    },
+    "tileId": "1b24546c-9675-4a68-88bf-39c4dda79329",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/1b24546c-9675-4a68-88bf-39c4dda79329/download",
+    "prompt": "A bracelet chain made of tiny blinking eyeballs linked together, creepy jewelry, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "splotchvane",
+      "name": "Splotchvane",
+      "category": "imaginary",
+      "tags": [
+        "weather-vane",
+        "emotion",
+        "mood",
+        "arrow",
+        "surreal",
+        "feeling",
+        "wind",
+        "metal"
+      ]
+    },
+    "tileId": "62f7600f-ebb0-49a9-a54b-b6d6a2f07a9a",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/62f7600f-ebb0-49a9-a54b-b6d6a2f07a9a/download",
+    "prompt": "A weather vane with arrows pointing to emotions like JOY SAD FEAR instead of compass directions, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "crumblechime",
+      "name": "Crumblechime",
+      "category": "imaginary",
+      "tags": [
+        "wind-chime",
+        "toast",
+        "crumb",
+        "bread",
+        "surreal",
+        "sound",
+        "breakfast",
+        "tinkle"
+      ]
+    },
+    "tileId": "51a399ce-ee2a-4473-b2ea-d41a2841ed3a",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/51a399ce-ee2a-4473-b2ea-d41a2841ed3a/download",
+    "prompt": "Wind chimes made of dangling toast slices and bread crumbs, golden brown, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "gloopspoon",
+      "name": "Gloopspoon",
+      "category": "imaginary",
+      "tags": [
+        "spoon",
+        "drip",
+        "upward",
+        "gravity",
+        "surreal",
+        "liquid",
+        "reverse",
+        "silver"
+      ]
+    },
+    "tileId": "0b80a1c6-8e3f-4958-be05-35cbd9a04eb0",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/0b80a1c6-8e3f-4958-be05-35cbd9a04eb0/download",
+    "prompt": "A silver spoon with liquid dripping upward from it defying gravity, blue droplets rising, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "tizzlewheel",
+      "name": "Tizzlewheel",
+      "category": "imaginary",
+      "tags": [
+        "wheel",
+        "triangle",
+        "spoke",
+        "roll",
+        "surreal",
+        "geometry",
+        "impossible",
+        "wood"
+      ]
+    },
+    "tileId": "73b2c72a-ae3d-4bd5-808e-e4556fce74d7",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/73b2c72a-ae3d-4bd5-808e-e4556fce74d7/download",
+    "prompt": "A wagon wheel with triangular spokes instead of round ones, rolls perfectly anyway, wooden, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "munkledrum",
+      "name": "Munkledrum",
+      "category": "imaginary",
+      "tags": [
+        "drum",
+        "silence",
+        "quiet",
+        "sound",
+        "surreal",
+        "mute",
+        "percussion",
+        "void"
+      ]
+    },
+    "tileId": "0b176b06-1fe4-4a59-976d-e2aed1fcf889",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/0b176b06-1fe4-4a59-976d-e2aed1fcf889/download",
+    "prompt": "A drum with a padded silent surface, muffled and quiet, with a void-black drumhead, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "skwibpencil",
+      "name": "Skwibpencil",
+      "category": "imaginary",
+      "tags": [
+        "pencil",
+        "smell",
+        "scent",
+        "write",
+        "surreal",
+        "aroma",
+        "draw",
+        "synesthesia"
+      ]
+    },
+    "tileId": "415da85a-f4da-4f5a-a2de-5fc8e70e7dad",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/415da85a-f4da-4f5a-a2de-5fc8e70e7dad/download",
+    "prompt": "A pencil with a wavy tip that leaves trails of colorful scent clouds instead of graphite marks, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "bozzlecrown",
+      "name": "Bozzlecrown",
+      "category": "imaginary",
+      "tags": [
+        "crown",
+        "question-mark",
+        "tangle",
+        "gold",
+        "surreal",
+        "royal",
+        "puzzle",
+        "metal"
+      ]
+    },
+    "tileId": "848ef889-47c7-4b38-824b-ae152ddd0f18",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/848ef889-47c7-4b38-824b-ae152ddd0f18/download",
+    "prompt": "A golden crown made of tangled question marks and punctuation, royal and puzzling, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "flumpsaddle",
+      "name": "Flumpsaddle",
+      "category": "imaginary",
+      "tags": [
+        "saddle",
+        "cloud",
+        "deflate",
+        "ride",
+        "surreal",
+        "soft",
+        "puff",
+        "leather"
+      ]
+    },
+    "tileId": "bf3b7001-45f1-4229-bc20-f07cbb125204",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/bf3b7001-45f1-4229-bc20-f07cbb125204/download",
+    "prompt": "A riding saddle shaped like a deflating cloud, puffy white leather slowly sinking, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "grizzlethimble",
+      "name": "Grizzlethimble",
+      "category": "imaginary",
+      "tags": [
+        "thimble",
+        "fur",
+        "bear",
+        "sewing",
+        "surreal",
+        "tiny",
+        "fuzzy",
+        "metal"
+      ]
+    },
+    "tileId": "b74a73b0-d153-4ed5-a7c2-68936b70d397",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b74a73b0-d153-4ed5-a7c2-68936b70d397/download",
+    "prompt": "A sewing thimble covered in tiny brown bear fur with a little nose on top, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "plonkanchor",
+      "name": "Plonkanchor",
+      "category": "imaginary",
+      "tags": [
+        "anchor",
+        "rubber",
+        "bounce",
+        "boat",
+        "surreal",
+        "flexible",
+        "float",
+        "naval"
+      ]
+    },
+    "tileId": "52603424-fa60-40a5-9a41-672b4e787f2d",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/52603424-fa60-40a5-9a41-672b4e787f2d/download",
+    "prompt": "A ship anchor made of bright red rubber that bounces when dropped, flexible and wobbly, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "twerpbottle",
+      "name": "Twerpbottle",
+      "category": "imaginary",
+      "tags": [
+        "bottle",
+        "bigger-inside",
+        "tardis",
+        "glass",
+        "surreal",
+        "space",
+        "paradox",
+        "container"
+      ]
+    },
+    "tileId": "9a3dff88-6d62-436d-a8d7-c59d14927f85",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/9a3dff88-6d62-436d-a8d7-c59d14927f85/download",
+    "prompt": "A glass bottle that is clearly bigger on the inside, miniature room visible through glass, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "snugglerack",
+      "name": "Snugglerack",
+      "category": "imaginary",
+      "tags": [
+        "coat-rack",
+        "hug",
+        "arms",
+        "wood",
+        "surreal",
+        "warm",
+        "embrace",
+        "furniture"
+      ]
+    },
+    "tileId": "c0259a0d-bbc0-454c-a899-3d4f51135d96",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/c0259a0d-bbc0-454c-a899-3d4f51135d96/download",
+    "prompt": "A wooden coat rack with arms that curve inward like hugging arms, warm and welcoming, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "wibblestamp",
+      "name": "Wibblestamp",
+      "category": "imaginary",
+      "tags": [
+        "stamp",
+        "random",
+        "print",
+        "change",
+        "surreal",
+        "ink",
+        "rubber",
+        "surprise"
+      ]
+    },
+    "tileId": "137c0e02-e25d-4725-93e7-19858dbcfdaa",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/137c0e02-e25d-4725-93e7-19858dbcfdaa/download",
+    "prompt": "A rubber stamp that shows a different random image on its face each time, shifting ink pattern, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "crogglebell",
+      "name": "Crogglebell",
+      "category": "imaginary",
+      "tags": [
+        "bell",
+        "precognition",
+        "early",
+        "ring",
+        "surreal",
+        "brass",
+        "time",
+        "prophetic"
+      ]
+    },
+    "tileId": "6de0168b-7df2-47a0-b69b-d915e710b300",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/6de0168b-7df2-47a0-b69b-d915e710b300/download",
+    "prompt": "A brass bell with a clock face on it, ringing before being touched, prophetic glow, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "dimplechurn",
+      "name": "Dimplechurn",
+      "category": "imaginary",
+      "tags": [
+        "churn",
+        "butter",
+        "stars",
+        "sparkle",
+        "surreal",
+        "galaxy",
+        "wooden",
+        "cosmic"
+      ]
+    },
+    "tileId": "e0439590-ad3a-457e-a6d8-9a1dcd7d8237",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/e0439590-ad3a-457e-a6d8-9a1dcd7d8237/download",
+    "prompt": "A wooden butter churn that produces tiny glowing stars instead of butter, sparkles inside, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "fizzanvil",
+      "name": "Fizzanvil",
+      "category": "imaginary",
+      "tags": [
+        "anvil",
+        "bubble",
+        "soap",
+        "float",
+        "surreal",
+        "fragile",
+        "iridescent",
+        "forge"
+      ]
+    },
+    "tileId": "196f55de-07fa-40fb-89df-e09f800ef3c0",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/196f55de-07fa-40fb-89df-e09f800ef3c0/download",
+    "prompt": "An anvil made entirely of iridescent soap bubbles, floating slightly above the ground, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "glorpfunnel",
+      "name": "Glorpfunnel",
+      "category": "imaginary",
+      "tags": [
+        "funnel",
+        "reverse",
+        "flow",
+        "liquid",
+        "surreal",
+        "upward",
+        "pour",
+        "metal"
+      ]
+    },
+    "tileId": "740fd052-8387-432a-bf1f-552e83fbc7d4",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/740fd052-8387-432a-bf1f-552e83fbc7d4/download",
+    "prompt": "A metal funnel turned upside down with liquid flowing upward through it, reverse pour, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "humblevise",
+      "name": "Humblevise",
+      "category": "imaginary",
+      "tags": [
+        "vise",
+        "marshmallow",
+        "soft",
+        "grip",
+        "surreal",
+        "gentle",
+        "squishy",
+        "tool"
+      ]
+    },
+    "tileId": "282eb447-128a-4d39-8dd9-fdf3a3115422",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/282eb447-128a-4d39-8dd9-fdf3a3115422/download",
+    "prompt": "A workshop vise with jaws made of soft pink marshmallow, gentle and squishy grip, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "jitterscale",
+      "name": "Jitterscale",
+      "category": "imaginary",
+      "tags": [
+        "scale",
+        "dance",
+        "balance",
+        "weigh",
+        "surreal",
+        "jitter",
+        "brass",
+        "move"
+      ]
+    },
+    "tileId": "2da87eb4-6088-438e-9e3e-7a07f1cae81a",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/2da87eb4-6088-438e-9e3e-7a07f1cae81a/download",
+    "prompt": "A brass weighing scale that dances and jitters when balanced, tiny legs on the base, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "knottpliers",
+      "name": "Knottpliers",
+      "category": "imaginary",
+      "tags": [
+        "pliers",
+        "bow",
+        "knot",
+        "tie",
+        "surreal",
+        "metal",
+        "pretty",
+        "tool"
+      ]
+    },
+    "tileId": "df927147-064d-4921-a160-01bf21347c3e",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/df927147-064d-4921-a160-01bf21347c3e/download",
+    "prompt": "A pair of pliers whose handles are permanently tied in a pretty ribbon bow, metal with bow, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "lumpcandle",
+      "name": "Lumpcandle",
+      "category": "imaginary",
+      "tags": [
+        "candle",
+        "ice",
+        "upward",
+        "drip",
+        "surreal",
+        "cold",
+        "flame",
+        "reverse"
+      ]
+    },
+    "tileId": "b716373b-660a-441e-9689-98acf842fd51",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b716373b-660a-441e-9689-98acf842fd51/download",
+    "prompt": "A candle with a flame made of blue ice, dripping frozen drops upward, cold fire, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "mizzleclock",
+      "name": "Mizzleclock",
+      "category": "imaginary",
+      "tags": [
+        "clock",
+        "maybe",
+        "uncertain",
+        "time",
+        "surreal",
+        "vague",
+        "hands",
+        "brass"
+      ]
+    },
+    "tileId": "d5857626-4cce-4ec9-b2c4-c2921d7ec0d7",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/d5857626-4cce-4ec9-b2c4-c2921d7ec0d7/download",
+    "prompt": "A clock where all hands point to a question mark in the center, vague and uncertain, brass, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "noodlehook",
+      "name": "Noodlehook",
+      "category": "imaginary",
+      "tags": [
+        "hook",
+        "spaghetti",
+        "pasta",
+        "fish",
+        "surreal",
+        "noodle",
+        "strong",
+        "food"
+      ]
+    },
+    "tileId": "7f2f04a3-9ce2-4cbb-ad9b-5c5b9e5e3388",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/7f2f04a3-9ce2-4cbb-ad9b-5c5b9e5e3388/download",
+    "prompt": "A fish hook made of a single cooked spaghetti noodle, somehow rigid and strong, pasta hook, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "pluffcompass",
+      "name": "Pluffcompass",
+      "category": "imaginary",
+      "tags": [
+        "compass",
+        "nap",
+        "sleep",
+        "pillow",
+        "surreal",
+        "direction",
+        "cozy",
+        "brass"
+      ]
+    },
+    "tileId": "bdd8a1c1-40a9-4d25-bd5e-f5329813794c",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/bdd8a1c1-40a9-4d25-bd5e-f5329813794c/download",
+    "prompt": "A compass where the needle points to a tiny pillow icon, fluffy and cozy looking, brass, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "quazzlebroom",
+      "name": "Quazzlebroom",
+      "category": "imaginary",
+      "tags": [
+        "broom",
+        "dirt",
+        "create",
+        "mess",
+        "surreal",
+        "sweep",
+        "reverse",
+        "wood"
+      ]
+    },
+    "tileId": "04cd20cd-023c-4f7c-b845-89d7bce87289",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/04cd20cd-023c-4f7c-b845-89d7bce87289/download",
+    "prompt": "A broom that leaves a trail of dirt and dust behind it as it sweeps, messy reverse broom, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "rumblethreads",
+      "name": "Rumblethreads",
+      "category": "imaginary",
+      "tags": [
+        "thread",
+        "vibrate",
+        "hum",
+        "lullaby",
+        "surreal",
+        "music",
+        "fiber",
+        "spool"
+      ]
+    },
+    "tileId": "9057a1ad-83ce-4f02-9986-333b75ca0af0",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/9057a1ad-83ce-4f02-9986-333b75ca0af0/download",
+    "prompt": "A spool of thread that vibrates and hums with musical notes, glowing fiber on wooden spool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "sizzlecork",
+      "name": "Sizzlecork",
+      "category": "imaginary",
+      "tags": [
+        "cork",
+        "fire",
+        "burn",
+        "immune",
+        "surreal",
+        "flame",
+        "wine",
+        "eternal"
+      ]
+    },
+    "tileId": "cb50e5db-dd88-4a0d-9655-67894579eb46",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/cb50e5db-dd88-4a0d-9655-67894579eb46/download",
+    "prompt": "A wine cork perpetually on fire with orange flames but never burning up, eternal flame cork, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "tumblecrayon",
+      "name": "Tumblecrayon",
+      "category": "imaginary",
+      "tags": [
+        "crayon",
+        "color",
+        "outside",
+        "rebel",
+        "surreal",
+        "draw",
+        "wax",
+        "art"
+      ]
+    },
+    "tileId": "044b1a14-b5f1-4a24-8038-03e47a817ee1",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/044b1a14-b5f1-4a24-8038-03e47a817ee1/download",
+    "prompt": "A fat crayon that draws outside its own lines, colorful scribbles escaping the tip, waxy, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "vexdial",
+      "name": "Vexdial",
+      "category": "imaginary",
+      "tags": [
+        "dial",
+        "rotary",
+        "call",
+        "object",
+        "surreal",
+        "phone",
+        "summon",
+        "brass"
+      ]
+    },
+    "tileId": "b5f250ae-b3ff-4b41-8c67-3c2326419345",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b5f250ae-b3ff-4b41-8c67-3c2326419345/download",
+    "prompt": "A rotary telephone dial floating alone, dialing objects into existence, brass and bakelite, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "wugglebox",
+      "name": "Wugglebox",
+      "category": "imaginary",
+      "tags": [
+        "box",
+        "shape-shift",
+        "misfit",
+        "container",
+        "surreal",
+        "morph",
+        "wooden",
+        "rebel"
+      ]
+    },
+    "tileId": "fdcb5e1a-d489-4736-b36b-fb33bfde5a8a",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/fdcb5e1a-d489-4736-b36b-fb33bfde5a8a/download",
+    "prompt": "A wooden box that morphs and shifts shape to never fit its contents, warping wood, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "yawnchisel",
+      "name": "Yawnchisel",
+      "category": "imaginary",
+      "tags": [
+        "chisel",
+        "pillow",
+        "sculpt",
+        "stone",
+        "surreal",
+        "soft",
+        "sleepy",
+        "tool"
+      ]
+    },
+    "tileId": "c189da36-abbf-455c-8b7b-921912c56353",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/c189da36-abbf-455c-8b7b-921912c56353/download",
+    "prompt": "A stone chisel that sculpts hard rock into soft fluffy pillows, sleepy tool with droopy handle, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "zibberchain",
+      "name": "Zibberchain",
+      "category": "imaginary",
+      "tags": [
+        "chain",
+        "galaxy",
+        "spin",
+        "cosmic",
+        "surreal",
+        "link",
+        "stars",
+        "metal"
+      ]
+    },
+    "tileId": "142b0098-0d60-4b18-a8e1-1983057083c6",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/142b0098-0d60-4b18-a8e1-1983057083c6/download",
+    "prompt": "A chain whose links are tiny spinning galaxies and nebulae, cosmic glowing chain, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "blotterfly",
+      "name": "Blotterfly",
+      "category": "imaginary",
+      "tags": [
+        "butterfly",
+        "ink",
+        "blot",
+        "write",
+        "surreal",
+        "wing",
+        "paper",
+        "insect"
+      ]
+    },
+    "tileId": "dd1bc929-3f6d-4de2-ad26-9be2f8800336",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/dd1bc929-3f6d-4de2-ad26-9be2f8800336/download",
+    "prompt": "A butterfly with wings made of ink blots that leave written words where it flies, black ink wings, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "chortlewrench",
+      "name": "Chortlewrench",
+      "category": "imaginary",
+      "tags": [
+        "wrench",
+        "laugh",
+        "chortle",
+        "turn",
+        "surreal",
+        "metal",
+        "goofy",
+        "tool"
+      ]
+    },
+    "tileId": "0dae58fb-9e0f-4a9a-ab75-0aa2196c9db4",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/0dae58fb-9e0f-4a9a-ab75-0aa2196c9db4/download",
+    "prompt": "A chrome wrench with a grinning laughing face on the head, giggling tool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "dribbleclamp",
+      "name": "Dribbleclamp",
+      "category": "imaginary",
+      "tags": [
+        "clamp",
+        "tears",
+        "joy",
+        "hold",
+        "surreal",
+        "wet",
+        "emotional",
+        "metal"
+      ]
+    },
+    "tileId": "1f6e9b77-49f6-4306-b427-9a194365c8fb",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/1f6e9b77-49f6-4306-b427-9a194365c8fb/download",
+    "prompt": "A metal clamp that weeps joyful tears while holding things together, dripping happy drops, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "fwipmagnet",
+      "name": "Fwipmagnet",
+      "category": "imaginary",
+      "tags": [
+        "magnet",
+        "forgotten",
+        "memory",
+        "attract",
+        "surreal",
+        "pull",
+        "lost",
+        "metal"
+      ]
+    },
+    "tileId": "56a38b52-4df0-4b87-98ca-b68e722759bc",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/56a38b52-4df0-4b87-98ca-b68e722759bc/download",
+    "prompt": "A horseshoe magnet that attracts ghostly forgotten objects floating around it, misty pull, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "guffawpeg",
+      "name": "Guffawpeg",
+      "category": "imaginary",
+      "tags": [
+        "clothespin",
+        "sound",
+        "clip",
+        "catch",
+        "surreal",
+        "audio",
+        "wood",
+        "pinch"
+      ]
+    },
+    "tileId": "d756c7cd-9be7-4e38-986a-6fb96278bd79",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/d756c7cd-9be7-4e38-986a-6fb96278bd79/download",
+    "prompt": "A wooden clothespin that clips onto visible sound waves, pinching cartoon sound effects, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "hiccupnail",
+      "name": "Hiccupnail",
+      "category": "imaginary",
+      "tags": [
+        "nail",
+        "jump",
+        "hammer",
+        "hop",
+        "surreal",
+        "metal",
+        "bounce",
+        "shy"
+      ]
+    },
+    "tileId": "e9985999-2d5f-4bf9-a431-22ea8a13025e",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/e9985999-2d5f-4bf9-a431-22ea8a13025e/download",
+    "prompt": "A small nail that hops and bounces away each time a hammer approaches, shy jumping nail, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "inklestrop",
+      "name": "Inklestrop",
+      "category": "imaginary",
+      "tags": [
+        "strop",
+        "leather",
+        "color",
+        "sharpen",
+        "surreal",
+        "bright",
+        "polish",
+        "rainbow"
+      ]
+    },
+    "tileId": "adff7db3-3841-4afe-9453-cfa12e27e727",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/adff7db3-3841-4afe-9453-cfa12e27e727/download",
+    "prompt": "A leather sharpening strop that makes colors brighter when rubbed, rainbow edge glow, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "jumblesieve",
+      "name": "Jumblesieve",
+      "category": "imaginary",
+      "tags": [
+        "sieve",
+        "absurdity",
+        "sort",
+        "filter",
+        "surreal",
+        "mesh",
+        "rank",
+        "metal"
+      ]
+    },
+    "tileId": "ef409309-cdeb-4b90-9997-d2ad8a5cbdbc",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/ef409309-cdeb-4b90-9997-d2ad8a5cbdbc/download",
+    "prompt": "A metal sieve that sorts items by how absurd they are, nonsense filter with strange mesh, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "kerfuzzle",
+      "name": "Kerfuzzle",
+      "category": "imaginary",
+      "tags": [
+        "lint",
+        "math",
+        "solve",
+        "ball",
+        "surreal",
+        "fuzzy",
+        "genius",
+        "compute"
+      ]
+    },
+    "tileId": "b894c938-616b-41bc-9cbc-301e2990470d",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b894c938-616b-41bc-9cbc-301e2990470d/download",
+    "prompt": "A round ball of colorful lint and fuzz with a tiny calculator embedded in it, genius fluff, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "lurkpinion",
+      "name": "Lurkpinion",
+      "category": "imaginary",
+      "tags": [
+        "gear",
+        "observe",
+        "shy",
+        "turn",
+        "surreal",
+        "metal",
+        "hide",
+        "watch"
+      ]
+    },
+    "tileId": "1de0e044-d8ee-43aa-8172-efc3e1f20caa",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/1de0e044-d8ee-43aa-8172-efc3e1f20caa/download",
+    "prompt": "A brass gear that only turns when nobody is looking, with tiny shy eyes peeking out, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "mufflecaliper",
+      "name": "Mufflecaliper",
+      "category": "imaginary",
+      "tags": [
+        "caliper",
+        "whisper",
+        "measure",
+        "quiet",
+        "surreal",
+        "brass",
+        "precise",
+        "soft"
+      ]
+    },
+    "tileId": "65de1569-8efd-4485-9a8c-f37d9d6e9a77",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/65de1569-8efd-4485-9a8c-f37d9d6e9a77/download",
+    "prompt": "Brass calipers with cotton-padded tips that measure the weight of whispers, soft and precise, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "nibblechisel",
+      "name": "Nibblechisel",
+      "category": "imaginary",
+      "tags": [
+        "chisel",
+        "bite",
+        "carve",
+        "eat",
+        "surreal",
+        "teeth",
+        "stone",
+        "hungry"
+      ]
+    },
+    "tileId": "b0fd7b86-f1fd-42a0-a5ba-4dbd903130cf",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b0fd7b86-f1fd-42a0-a5ba-4dbd903130cf/download",
+    "prompt": "A chisel with tiny teeth marks on its blade, taking bites out of whatever it carves, hungry tool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "oozecasket",
+      "name": "Oozecasket",
+      "category": "imaginary",
+      "tags": [
+        "chest",
+        "rainbow",
+        "leak",
+        "ooze",
+        "surreal",
+        "hinge",
+        "treasure",
+        "drip"
+      ]
+    },
+    "tileId": "ff85b53f-2a36-4459-b81b-fccfb83df884",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/ff85b53f-2a36-4459-b81b-fccfb83df884/download",
+    "prompt": "A tiny treasure chest leaking rainbow-colored ooze from its hinges and keyhole, dripping color, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "puckerbolt",
+      "name": "Puckerbolt",
+      "category": "imaginary",
+      "tags": [
+        "bolt",
+        "lips",
+        "pucker",
+        "tighten",
+        "surreal",
+        "metal",
+        "kiss",
+        "hardware"
+      ]
+    },
+    "tileId": "0d29f5b7-c284-447c-a69d-4d8322cfff45",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/0d29f5b7-c284-447c-a69d-4d8322cfff45/download",
+    "prompt": "A metal bolt with lip-shaped threads that pucker when tightened, kissing hardware, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "quiverladle",
+      "name": "Quiverladle",
+      "category": "imaginary",
+      "tags": [
+        "ladle",
+        "tremble",
+        "soup",
+        "excited",
+        "surreal",
+        "silver",
+        "shake",
+        "kitchen"
+      ]
+    },
+    "tileId": "20d54ba5-321d-421a-a321-8a49b87d3e40",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/20d54ba5-321d-421a-a321-8a49b87d3e40/download",
+    "prompt": "A silver soup ladle that trembles with excitement, shaking and quivering near hot liquid, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "razzlesextant",
+      "name": "Razzlesextant",
+      "category": "imaginary",
+      "tags": [
+        "sextant",
+        "mood",
+        "navigate",
+        "emotion",
+        "surreal",
+        "brass",
+        "star",
+        "feeling"
+      ]
+    },
+    "tileId": "3e81ee53-1c0c-4b21-a11f-af4178c14af6",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/3e81ee53-1c0c-4b21-a11f-af4178c14af6/download",
+    "prompt": "A brass sextant with a mood ring instead of a lens, navigating by emotion, colorful dial, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "smirkvalve",
+      "name": "Smirkvalve",
+      "category": "imaginary",
+      "tags": [
+        "valve",
+        "grin",
+        "pressure",
+        "face",
+        "surreal",
+        "brass",
+        "smile",
+        "pipe"
+      ]
+    },
+    "tileId": "c695bd5d-5a65-46ce-ab66-faf181ecb838",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/c695bd5d-5a65-46ce-ab66-faf181ecb838/download",
+    "prompt": "A pipe valve with a smirking face that grins wider as pressure builds, brass with expression, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "tumblereed",
+      "name": "Tumblereed",
+      "category": "imaginary",
+      "tags": [
+        "reed",
+        "tumble",
+        "uphill",
+        "hollow",
+        "surreal",
+        "roll",
+        "plant",
+        "wind"
+      ]
+    },
+    "tileId": "2d439265-965d-4d89-b617-24f1fadd3572",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/2d439265-965d-4d89-b617-24f1fadd3572/download",
+    "prompt": "A hollow reed that rolls uphill like a tumbleweed, dried grass tube tumbling upward, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "umbrawhisk",
+      "name": "Umbrawhisk",
+      "category": "imaginary",
+      "tags": [
+        "whisk",
+        "shadow",
+        "light",
+        "beat",
+        "surreal",
+        "dark",
+        "cream",
+        "kitchen"
+      ]
+    },
+    "tileId": "dbab1907-cf92-4723-8047-1074570f853d",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/dbab1907-cf92-4723-8047-1074570f853d/download",
+    "prompt": "A kitchen whisk made of solid shadow wisps, beating light into cream, dark ethereal tool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "vexbellows",
+      "name": "Vexbellows",
+      "category": "imaginary",
+      "tags": [
+        "bellows",
+        "fire",
+        "snow",
+        "inhale",
+        "surreal",
+        "reverse",
+        "forge",
+        "cold"
+      ]
+    },
+    "tileId": "e202b9b4-4f6c-4442-9d5d-3ae4553f7e27",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/e202b9b4-4f6c-4442-9d5d-3ae4553f7e27/download",
+    "prompt": "Forge bellows that inhale fire and exhale snowflakes, ice crystals puffing out, leather and wood, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "wibblescope",
+      "name": "Wibblescope",
+      "category": "imaginary",
+      "tags": [
+        "periscope",
+        "yesterday",
+        "time",
+        "view",
+        "surreal",
+        "past",
+        "tube",
+        "brass"
+      ]
+    },
+    "tileId": "d5659be7-b54f-49a8-8324-eef172314a44",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/d5659be7-b54f-49a8-8324-eef172314a44/download",
+    "prompt": "A periscope that shows scenes from yesterday instead of around corners, clock-faced lens, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "xerxesloom",
+      "name": "Xerxesloom",
+      "category": "imaginary",
+      "tags": [
+        "loom",
+        "static",
+        "electricity",
+        "weave",
+        "surreal",
+        "fabric",
+        "spark",
+        "tiny"
+      ]
+    },
+    "tileId": "db3de2dc-330f-4434-a307-68ef8431e4c2",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/db3de2dc-330f-4434-a307-68ef8431e4c2/download",
+    "prompt": "A tiny ornate loom that weaves fabric from crackling static electricity, sparking threads, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "yelpgauge",
+      "name": "Yelpgauge",
+      "category": "imaginary",
+      "tags": [
+        "gauge",
+        "yelp",
+        "pressure",
+        "sound",
+        "surreal",
+        "brass",
+        "measure",
+        "loud"
+      ]
+    },
+    "tileId": "b0f380e9-dd55-4006-a908-cba8460dccd5",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b0f380e9-dd55-4006-a908-cba8460dccd5/download",
+    "prompt": "A pressure gauge with a tiny mouth that yelps at exact measurements, speaking dial, brass, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "zestgrater",
+      "name": "Zestgrater",
+      "category": "imaginary",
+      "tags": [
+        "grater",
+        "enthusiasm",
+        "add",
+        "zest",
+        "surreal",
+        "metal",
+        "energy",
+        "kitchen"
+      ]
+    },
+    "tileId": "bba92ae7-96ac-4544-bd71-e3e501c29226",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/bba92ae7-96ac-4544-bd71-e3e501c29226/download",
+    "prompt": "A cheese grater that adds sparkly enthusiasm energy instead of removing material, glowing, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "blunderbung",
+      "name": "Blunderbung",
+      "category": "imaginary",
+      "tags": [
+        "cork",
+        "launch",
+        "bottle",
+        "bounce",
+        "surreal",
+        "projectile",
+        "pop",
+        "return"
+      ]
+    },
+    "tileId": "b837bb48-cae6-4043-97f2-b9c6fb21d0ff",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b837bb48-cae6-4043-97f2-b9c6fb21d0ff/download",
+    "prompt": "A wine cork that launches itself back into empty bottles like a projectile, bouncing cork, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "chuffleprism",
+      "name": "Chuffleprism",
+      "category": "imaginary",
+      "tags": [
+        "prism",
+        "sound",
+        "color",
+        "split",
+        "surreal",
+        "glass",
+        "synesthesia",
+        "crystal"
+      ]
+    },
+    "tileId": "d3cec3ec-57d9-4bbe-99fc-06d59f99de54",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/d3cec3ec-57d9-4bbe-99fc-06d59f99de54/download",
+    "prompt": "A glass prism that splits sounds into visible color beams instead of light, musical rainbow, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "dwibblecleat",
+      "name": "Dwibblecleat",
+      "category": "imaginary",
+      "tags": [
+        "cleat",
+        "bubblegum",
+        "boat",
+        "sticky",
+        "surreal",
+        "dried",
+        "pink",
+        "naval"
+      ]
+    },
+    "tileId": "663b8aed-37bf-420d-8704-be00ec67c2fa",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/663b8aed-37bf-420d-8704-be00ec67c2fa/download",
+    "prompt": "A boat cleat made of dried pink bubblegum, stretchy and sticky, nautical candy, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "fnurrlepiston",
+      "name": "Fnurrlepiston",
+      "category": "imaginary",
+      "tags": [
+        "piston",
+        "circle",
+        "spin",
+        "engine",
+        "surreal",
+        "metal",
+        "round",
+        "impossible"
+      ]
+    },
+    "tileId": "f8d8f19b-49ac-4022-8894-af7077aedc38",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/f8d8f19b-49ac-4022-8894-af7077aedc38/download",
+    "prompt": "A piston that moves in circular motions instead of up and down, impossible round engine part, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "gribbleawl",
+      "name": "Gribbleawl",
+      "category": "imaginary",
+      "tags": [
+        "awl",
+        "concept",
+        "poke",
+        "idea",
+        "surreal",
+        "abstract",
+        "sharp",
+        "thought"
+      ]
+    },
+    "tileId": "72f4b19d-3b38-4be3-b271-e8a6a686ccd2",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/72f4b19d-3b38-4be3-b271-e8a6a686ccd2/download",
+    "prompt": "A pointed awl that pokes holes in floating thought bubbles and concepts, abstract sharp tool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "hubblerivet",
+      "name": "Hubblerivet",
+      "category": "imaginary",
+      "tags": [
+        "rivet",
+        "respect",
+        "bond",
+        "hold",
+        "surreal",
+        "metal",
+        "polite",
+        "connection"
+      ]
+    },
+    "tileId": "03cddd25-b70a-4a34-9d9f-3084c1f4b5fd",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/03cddd25-b70a-4a34-9d9f-3084c1f4b5fd/download",
+    "prompt": "A polite rivet with a tiny handshake symbol, holding things together with mutual respect, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "ickletrowel",
+      "name": "Ickletrowel",
+      "category": "imaginary",
+      "tags": [
+        "trowel",
+        "confusion",
+        "plant",
+        "seed",
+        "surreal",
+        "garden",
+        "chaos",
+        "dirt"
+      ]
+    },
+    "tileId": "6b5f1102-5ea2-450e-b211-403581317f81",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/6b5f1102-5ea2-450e-b211-403581317f81/download",
+    "prompt": "A garden trowel that plants tiny confused question-mark sprouts in the soil, chaos gardening, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "joltpipette",
+      "name": "Joltpipette",
+      "category": "imaginary",
+      "tags": [
+        "pipette",
+        "lightning",
+        "drop",
+        "tiny",
+        "surreal",
+        "glass",
+        "electric",
+        "lab"
+      ]
+    },
+    "tileId": "87f6464b-0a90-4b5b-9402-6d8f655de037",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/87f6464b-0a90-4b5b-9402-6d8f655de037/download",
+    "prompt": "A glass pipette that dispenses tiny crackling lightning drops, electric lab tool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "knobbleratchet",
+      "name": "Knobbleratchet",
+      "category": "imaginary",
+      "tags": [
+        "ratchet",
+        "melody",
+        "click",
+        "music",
+        "surreal",
+        "metal",
+        "song",
+        "tool"
+      ]
+    },
+    "tileId": "e3756898-9c7e-4742-8bc1-6baa13f22c3e",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/e3756898-9c7e-4742-8bc1-6baa13f22c3e/download",
+    "prompt": "A ratchet wrench whose clicks play a tiny melody, musical notes on each turn, chrome, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "lumoxledger",
+      "name": "Lumoxledger",
+      "category": "imaginary",
+      "tags": [
+        "book",
+        "rearrange",
+        "blink",
+        "page",
+        "surreal",
+        "paper",
+        "shift",
+        "text"
+      ]
+    },
+    "tileId": "f990751d-0e2d-4e28-a582-2386b2cd2014",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/f990751d-0e2d-4e28-a582-2386b2cd2014/download",
+    "prompt": "A leather book whose pages visibly rearrange and shuffle when you blink, shifting text, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "mudgetap",
+      "name": "Mudgetap",
+      "category": "imaginary",
+      "tags": [
+        "faucet",
+        "fog",
+        "flavor",
+        "mist",
+        "surreal",
+        "brass",
+        "pour",
+        "weather"
+      ]
+    },
+    "tileId": "81a63d60-bb91-4995-83ce-7156a086a167",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/81a63d60-bb91-4995-83ce-7156a086a167/download",
+    "prompt": "A brass faucet dispensing different flavors of colorful fog and mist, swirling vapor, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "nifflerule",
+      "name": "Nifflerule",
+      "category": "imaginary",
+      "tags": [
+        "ruler",
+        "nonsense",
+        "measure",
+        "unit",
+        "surreal",
+        "wood",
+        "absurd",
+        "length"
+      ]
+    },
+    "tileId": "ee55ae0a-372c-4f8a-8875-29222586d432",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/ee55ae0a-372c-4f8a-8875-29222586d432/download",
+    "prompt": "A wooden ruler with absurd units like squiggles and bloops instead of inches, nonsense marks, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "oinkmortar",
+      "name": "Oinkmortar",
+      "category": "imaginary",
+      "tags": [
+        "mortar",
+        "pestle",
+        "silence",
+        "noise",
+        "surreal",
+        "grind",
+        "stone",
+        "pig"
+      ]
+    },
+    "tileId": "7315b7e2-3b10-4646-a86b-154b953c07c5",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/7315b7e2-3b10-4646-a86b-154b953c07c5/download",
+    "prompt": "A stone mortar and pestle with a pig snout on the mortar, grinds silence into visible noise waves, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "plinkcrucible",
+      "name": "Plinkcrucible",
+      "category": "imaginary",
+      "tags": [
+        "crucible",
+        "idea",
+        "melt",
+        "liquid",
+        "surreal",
+        "thought",
+        "ceramic",
+        "hot"
+      ]
+    },
+    "tileId": "218a4bda-0974-4423-9fdb-4514327c9960",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/218a4bda-0974-4423-9fdb-4514327c9960/download",
+    "prompt": "A ceramic crucible melting glowing lightbulb ideas into shimmering liquid thought, hot glow, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "quazzlevice",
+      "name": "Quazzlevice",
+      "category": "imaginary",
+      "tags": [
+        "vice",
+        "time",
+        "squeeze",
+        "revert",
+        "surreal",
+        "metal",
+        "paradox",
+        "tool"
+      ]
+    },
+    "tileId": "9639ce85-4df5-4d27-82f0-3ed71a6859de",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/9639ce85-4df5-4d27-82f0-3ed71a6859de/download",
+    "prompt": "A metal vice that squeezes objects into earlier versions of themselves, time-reversal tool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "rumblewasher",
+      "name": "Rumblewasher",
+      "category": "imaginary",
+      "tags": [
+        "washer",
+        "shanty",
+        "hum",
+        "sea",
+        "surreal",
+        "metal",
+        "music",
+        "hardware"
+      ]
+    },
+    "tileId": "5896fbe5-4414-4206-9f95-0995cc32c5c5",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/5896fbe5-4414-4206-9f95-0995cc32c5c5/download",
+    "prompt": "A metal washer (hardware ring) that hums and vibrates with tiny sea shanty music notes, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "snigglevalve",
+      "name": "Snigglevalve",
+      "category": "imaginary",
+      "tags": [
+        "valve",
+        "serpent",
+        "ouroboros",
+        "coil",
+        "surreal",
+        "brass",
+        "snake",
+        "eternal"
+      ]
+    },
+    "tileId": "e06a4389-299c-4943-b46a-e6da44da13c2",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/e06a4389-299c-4943-b46a-e6da44da13c2/download",
+    "prompt": "A brass valve shaped like a coiled serpent eating its own tail, ouroboros pipe fitting, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "twerpcalipers",
+      "name": "Twerpcalipers",
+      "category": "imaginary",
+      "tags": [
+        "caliper",
+        "sarcasm",
+        "measure",
+        "snark",
+        "surreal",
+        "brass",
+        "precise",
+        "attitude"
+      ]
+    },
+    "tileId": "b670a57b-8056-4070-b509-439621f307d0",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/b670a57b-8056-4070-b509-439621f307d0/download",
+    "prompt": "Brass calipers with a sassy smirking face, measuring sarcasm levels on tiny dial, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "umbleshears",
+      "name": "Umbleshears",
+      "category": "imaginary",
+      "tags": [
+        "scissors",
+        "silence",
+        "awkward",
+        "cut",
+        "surreal",
+        "metal",
+        "social",
+        "blade"
+      ]
+    },
+    "tileId": "51913be3-688a-4b4a-aab1-50c59cf2921b",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/51913be3-688a-4b4a-aab1-50c59cf2921b/download",
+    "prompt": "Ornate scissors that cut through visible awkward silence waves, social rescue tool, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  },
+  {
+    "sprite": {
+      "id": "vortexthimble",
+      "name": "Vortexthimble",
+      "category": "imaginary",
+      "tags": [
+        "thimble",
+        "whirlpool",
+        "vortex",
+        "tiny",
+        "surreal",
+        "metal",
+        "swirl",
+        "sewing"
+      ]
+    },
+    "tileId": "6b2bbe9c-3ea7-47f7-8253-ff5d240da60a",
+    "downloadUrl": "https://api.pixellab.ai/mcp/map-objects/6b2bbe9c-3ea7-47f7-8253-ff5d240da60a/download",
+    "prompt": "A sewing thimble containing a tiny swirling whirlpool vortex inside, water spinning, surreal nonsensical impossible object, Codex Seraphinianus style, pixel art, single object, transparent background"
+  }
+]
